@@ -9,6 +9,6 @@
     name: 'Docecahdron',
     price: 2.95,
     description: 'This file changes and so does the output :D',
-    canPurchase: true,
+    canPurchase: false,
   };
 })();
