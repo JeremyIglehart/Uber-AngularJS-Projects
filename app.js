@@ -8,6 +8,6 @@
   var gem = {
     name: 'Docecahdron',
     price: 2.95,
-    description: '.  .  .',
+    description: 'This file changes and so does the output :D',
   };
 })();
