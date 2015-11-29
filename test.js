@@ -1,3 +1,3 @@
-function runMe(){
+function ConltrollerForMe(){
   alert("I love you forever honey");
 }
