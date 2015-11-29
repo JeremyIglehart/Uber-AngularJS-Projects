@@ -1,5 +1,5 @@
 # This is the Readme file for Uber AngularJS Projects for Autoschematic.com
 
-First Commit.
+Nothing here, head over to gh-pages for all the action.
 
 -Autoschematic
