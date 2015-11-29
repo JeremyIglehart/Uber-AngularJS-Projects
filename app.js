@@ -10,6 +10,6 @@
     price: 2.95,
     description: 'This file changes and so does the output :D',
     canPurchase: false,
-    soldOut: true,
+    soldOut: false,
   };
 })();
