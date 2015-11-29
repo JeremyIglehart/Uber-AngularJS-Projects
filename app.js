@@ -17,5 +17,5 @@
     price: 5.95,
     description: '. . .',
     canPurchase: false,
-  };
+  }];
 })();
