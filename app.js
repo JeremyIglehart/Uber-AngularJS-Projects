@@ -8,7 +8,7 @@
   var gems = [
   {
     name: 'Docecahdron',
-    price: 2.95,
+    price: 4.95,
     description: 'This file changes and so does the output :D',
     canPurchase: false,
   },
