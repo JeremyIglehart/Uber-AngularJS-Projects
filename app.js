@@ -17,5 +17,11 @@
     price: 5.95,
     description: '. . .',
     canPurchase: false,
+  },
+  {
+    name: 'Beck\'s Gem',
+    price: 995.95,
+    description: 'Super rare',
+    canPurchase: false,
   }];
 })();
